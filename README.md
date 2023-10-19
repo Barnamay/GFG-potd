@@ -1,12 +1,5 @@
 # GFG-potd 19/10/2023
 
-
-
-
-
-
-
-
  queue<int> q;
 	    vector<int> vis(V,0);
 	    int level= 0 ;
